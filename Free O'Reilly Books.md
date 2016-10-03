@@ -6,4 +6,4 @@ How to use:
 
 1. Take the `download.sh` file and put it into a directory where you want the files to be saved.
 1. `cd` into the directory and make sure that it has executable permissions (`chmod +x download.sh` should do it)
-1. Run `./download.sh` and wee there it goes.
+1. Run `./download.sh` and wee there it goes. Also if you do not want all the files, just simply comment the ones you do not want.
